@@ -1,0 +1,12 @@
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\bin\Debug\net8.0\MobileProjectAPIs.Core.deps.json
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\bin\Debug\net8.0\MobileProjectAPIs.Core.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\bin\Debug\net8.0\MobileProjectAPIs.Core.pdb
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.csproj.AssemblyReference.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.AssemblyInfoInputs.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.AssemblyInfo.cs
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.csproj.CoreCompileInputs.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\refint\MobileProjectAPIs.Core.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\MobileProjectAPIs.Core.pdb
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Core\obj\Debug\net8.0\ref\MobileProjectAPIs.Core.dll

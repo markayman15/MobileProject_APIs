@@ -1,0 +1,17 @@
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Repository.deps.json
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Repository.runtimeconfig.json
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Repository.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Repository.pdb
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Core.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\bin\Debug\net8.0\MobileProjectAPIs.Core.pdb
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.csproj.AssemblyReference.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.AssemblyInfoInputs.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.AssemblyInfo.cs
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.csproj.CoreCompileInputs.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobilePr.8CD795F3.Up2Date
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\refint\MobileProjectAPIs.Repository.dll
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.pdb
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\MobileProjectAPIs.Repository.genruntimeconfig.cache
+D:\Collage\4th_year\second_semester\Mobile\MobileProject\MobileProjectAPIs.Repository\obj\Debug\net8.0\ref\MobileProjectAPIs.Repository.dll
